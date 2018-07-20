@@ -1,0 +1,11 @@
+D:\Projects\Web Api\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.dll
+D:\Projects\Web Api\WebAPI\BusinessEntities\bin\Debug\BusinessEntities.pdb
+D:\Projects\Web Api\WebAPI\BusinessEntities\bin\Debug\AutoMapper.dll
+D:\Projects\Web Api\WebAPI\BusinessEntities\bin\Debug\System.ValueTuple.dll
+D:\Projects\Web Api\WebAPI\BusinessEntities\bin\Debug\AutoMapper.pdb
+D:\Projects\Web Api\WebAPI\BusinessEntities\bin\Debug\AutoMapper.xml
+D:\Projects\Web Api\WebAPI\BusinessEntities\bin\Debug\System.ValueTuple.xml
+D:\Projects\Web Api\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.csprojResolveAssemblyReference.cache
+D:\Projects\Web Api\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+D:\Projects\Web Api\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.dll
+D:\Projects\Web Api\WebAPI\BusinessEntities\obj\Debug\BusinessEntities.pdb
