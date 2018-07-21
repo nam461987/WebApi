@@ -15,6 +15,9 @@ using TestHelper;
 
 namespace BusinessServices.Tests
 {
+    /// <summary>
+    /// Product Service Test
+    /// </summary>
     class ProductServicesTests
     {
         #region Variables
@@ -46,6 +49,7 @@ namespace BusinessServices.Tests
         [SetUp]
         public void ReInitializeTest()
         {
+            _products = SetUpProducts();
             _dbEntities = new Mock<WebApiDbEntities>().Object;
             _productRepository = SetUpProductRepository();
             var unitOfWork = new Mock<IUnitOfWork>();

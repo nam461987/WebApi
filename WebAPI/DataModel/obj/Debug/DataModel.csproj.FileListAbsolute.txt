@@ -2,11 +2,6 @@ D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\DataModel.dll.config
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\DataModel.dll
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\DataModel.pdb
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\EntityFramework.dll
-D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\EntityFramework.xml
-D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
-D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
-D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.dll
-D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.pdb
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\Resolver.dll
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\Unity.Container.dll
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\Unity.Abstractions.dll
@@ -19,6 +14,7 @@ D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\System.Web.WebPages.dll
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\System.Web.WebPages.Deployment.dll
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\Resolver.pdb
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\Resolver.dll.config
+D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\EntityFramework.xml
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\Unity.Container.pdb
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\Unity.Abstractions.pdb
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\System.Web.Mvc.xml
@@ -26,3 +22,7 @@ D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\System.Web.Razor.xml
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\System.Web.WebPages.Razor.xml
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\System.Web.WebPages.xml
 D:\Projects\Web Api\WebAPI\DataModel\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.csprojResolveAssemblyReference.cache
+D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.dll
+D:\Projects\Web Api\WebAPI\DataModel\obj\Debug\DataModel.pdb
