@@ -31,7 +31,6 @@ D:\Projects\Web Api\WebAPI\Resolver\bin\Debug\Unity.Interception.pdb
 D:\Projects\Web Api\WebAPI\Resolver\bin\Debug\Unity.Interception.Configuration.pdb
 D:\Projects\Web Api\WebAPI\Resolver\bin\Debug\Unity.RegistrationByConvention.pdb
 D:\Projects\Web Api\WebAPI\Resolver\bin\Debug\Unity.ServiceLocation.pdb
-D:\Projects\Web Api\WebAPI\Resolver\obj\Debug\Resolver.csprojResolveAssemblyReference.cache
 D:\Projects\Web Api\WebAPI\Resolver\obj\Debug\Resolver.csproj.CoreCompileInputs.cache
 D:\Projects\Web Api\WebAPI\Resolver\obj\Debug\Resolver.dll
 D:\Projects\Web Api\WebAPI\Resolver\obj\Debug\Resolver.pdb

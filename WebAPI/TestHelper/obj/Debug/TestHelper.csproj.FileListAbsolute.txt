@@ -1,4 +1,3 @@
-D:\Projects\Web Api\WebAPI\TestHelper\bin\Debug\TestHelper.dll.config
 D:\Projects\Web Api\WebAPI\TestHelper\bin\Debug\TestHelper.dll
 D:\Projects\Web Api\WebAPI\TestHelper\bin\Debug\TestHelper.pdb
 D:\Projects\Web Api\WebAPI\TestHelper\bin\Debug\DataModel.dll

@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace BusinessServices
 {
-    class TokenServices : ITokenServices
+    public class TokenServices : ITokenServices
     {
         #region Private member variables.
         private readonly IUnitOfWork _unitOfWork;

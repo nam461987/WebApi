@@ -1,5 +1,4 @@
 D:\Projects\Web Api\WebAPI\BusinessServices\bin\Debug\AutoMapper.Net4.dll
-D:\Projects\Web Api\WebAPI\BusinessServices\bin\Debug\BusinessServices.dll.config
 D:\Projects\Web Api\WebAPI\BusinessServices\bin\Debug\BusinessServices.dll
 D:\Projects\Web Api\WebAPI\BusinessServices\bin\Debug\BusinessServices.pdb
 D:\Projects\Web Api\WebAPI\BusinessServices\bin\Debug\AutoMapper.dll

@@ -97,7 +97,6 @@ D:\Projects\Web Api\WebAPI\WebAPI\bin\WebGrease.dll
 D:\Projects\Web Api\WebAPI\WebAPI\bin\DataModel.dll
 D:\Projects\Web Api\WebAPI\WebAPI\bin\BusinessEntities.pdb
 D:\Projects\Web Api\WebAPI\WebAPI\bin\BusinessServices.pdb
-D:\Projects\Web Api\WebAPI\WebAPI\bin\BusinessServices.dll.config
 D:\Projects\Web Api\WebAPI\WebAPI\bin\Resolver.pdb
 D:\Projects\Web Api\WebAPI\WebAPI\bin\Resolver.dll.config
 D:\Projects\Web Api\WebAPI\WebAPI\bin\AttributeRouting.xml
