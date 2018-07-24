@@ -48,7 +48,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="DepenencyResolver.cs" />
     <Compile Include="GenericRepository\GenericRepository.cs" />
     <Compile Include="UnitOfWork\IUnitOfWork.cs" />

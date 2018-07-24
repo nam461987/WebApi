@@ -49,7 +49,7 @@ namespace WebAPI.Controllers
         [Route("myproduct/{id:range(1, 3)}")]
         public HttpResponseMessage Get(int id)
         {
-            if (id != null)
+            if (id > 0)
             {
                 var product = _productServices.GetProductById(id);
                 if (product != null)
@@ -89,8 +89,15 @@ namespace WebAPI.Controllers
         public bool Delete(int id)
         {
             if (id > 0)
-                return _productServices.DeleteProduct(id);
-            return false;
+            {
+                var isSuccess = _productServices.DeleteProduct(id);
+                if (isSuccess)
+                {
+                    return true;
+                }
+                throw new ApiDataException(1002, "Product is already deleted or not exist in system.", HttpStatusCode.NoContent);
+            }
+            throw new ApiException() { ErrorCode = (int)HttpStatusCode.BadRequest, ErrorDescription = "Bad Request..." };
         }
     }
 }

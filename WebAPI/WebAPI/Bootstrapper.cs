@@ -35,6 +35,7 @@ namespace WebAPI
             //Component initialization via MEF
             ComponentLoader.LoadContainer(container, ".\\bin", "WebApi.dll");
             ComponentLoader.LoadContainer(container, ".\\bin", "BusinessServices.dll");
+            ComponentLoader.LoadContainer(container, ".\\bin", "DataModel.dll");
 
         }
     }

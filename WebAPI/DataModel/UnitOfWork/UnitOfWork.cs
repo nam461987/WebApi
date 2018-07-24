@@ -17,7 +17,7 @@ namespace DataModel.UnitOfWork
     {
         #region Private member variables...
 
-        private WebApiDbEntities _context = null;
+        private readonly WebApiDbEntities _context = null;
         private GenericRepository<User> _userRepository;
         private GenericRepository<Product> _productRepository;
         private GenericRepository<Token> _tokenRepository;

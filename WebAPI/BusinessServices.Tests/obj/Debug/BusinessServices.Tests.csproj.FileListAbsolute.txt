@@ -51,3 +51,13 @@ D:\Projects\Web Api\WebAPI\BusinessServices.Tests\obj\Debug\BusinessServices.Tes
 D:\Projects\Web Api\WebAPI\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.dll
 D:\Projects\Web Api\WebAPI\BusinessServices.Tests\obj\Debug\BusinessServices.Tests.pdb
 D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\BusinessServices.Tests.dll.config
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\BusinessServices.dll.config
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\TestHelper.dll.config
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\System.Web.Http.dll
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\System.Web.Http.xml
+D:\Projects\Web Api\WebAPI\BusinessServices.Tests\bin\Debug\System.Web.Http.WebHost.xml
